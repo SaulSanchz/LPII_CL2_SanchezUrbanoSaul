@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\LP2_workspace\LPII_CL2_SanchezUrbanoSaul\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1308407483.index
+\LP2_CL2_SanchezUrbanoSaul\src\main\resources

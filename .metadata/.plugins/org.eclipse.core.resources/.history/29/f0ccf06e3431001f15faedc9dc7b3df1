@@ -1,0 +1,16 @@
+<html>
+<body>
+<h2>Ingresar al Sistema</h2>
+<tr>
+	<td>Usuario: </td>
+	<td><input></td>
+</tr>
+<tr>
+	<td>Password: </td>
+	<td><input></td>
+</tr>
+<tr>
+	<td><input></td>
+</tr>
+</body>
+</html>
